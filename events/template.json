@@ -1,0 +1,16 @@
+{
+  "event": "",
+  "date": "201x-xx-xx",
+  "setlist": {
+    "main": {
+      "artist": [
+        "song"
+      ]
+    },
+    "encore": {
+      "Kalafina": [
+        "song"
+      ]
+    }
+  }
+}
