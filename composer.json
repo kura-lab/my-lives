@@ -1,0 +1,5 @@
+{
+  "require": {
+    "kura-lab/json-viewer": "1.*"
+  }
+}
