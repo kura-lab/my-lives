@@ -3,13 +3,13 @@
   "date": "201x-xx-xx",
   "setlist": {
     "main": {
-      "artist": [
-        "song"
+      "<artist>": [
+        "<song>"
       ]
     },
     "encore": {
-      "Kalafina": [
-        "song"
+      "<artist>": [
+        "<song>"
       ]
     }
   }
