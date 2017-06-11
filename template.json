@@ -1,6 +1,7 @@
 {
   "event": "",
   "date": "201x-xx-xx",
+  "venues": "<venues>",
   "setlist": {
     "main": {
       "<artist>": [
