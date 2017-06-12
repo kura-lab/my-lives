@@ -11,7 +11,7 @@ foreach ($list as $file) {
     $row = file_get_contents($dir . '/' . $file);
     $json = json_decode($row);
     if (!$json) {
-      echo $file . " is invalid json format.\n";
+      echo "\n$file is invalid json format.\n";
       exit;
     }
     echo '  ' . $file . "\n";
