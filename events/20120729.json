@@ -4,103 +4,170 @@
   "prefecture": "東京",
   "venues": "横浜アリーナ",
   "setlist": {
-    "main": {
-      "SHORT CIRCUIT": [
-        "恋愛CHU!",
-        "Double HamoniZe Shock"
+    "main": [
+      [
+        "SHORT CIRCUIT",
+        [
+          "恋愛CHU!",
+          "Double HamoniZe Shock"
+        ]
       ],
-      "詩月カオリ": [
-        "Do you know the magic?",
-        "Pure Heart 〜世界で一番アナタが好き〜"
+      [
+        "詩月カオリ",
+        [
+          "Do you know the magic?",
+          "Pure Heart 〜世界で一番アナタが好き〜"
+        ]
       ],
-      "島みやえい子": [
-        "verge",
-        "sacred words",
-        "さよならを教えて 〜comment te dire adieu〜"
+      [
+        "島みやえい子",
+        [
+          "verge",
+          "sacred words",
+          "さよならを教えて 〜comment te dire adieu〜"
+        ]
       ],
-      "Larval Stage Planning": [
-        "Rolling Star☆彡"
+      [
+        "Larval Stage Planning",
+        [
+          "Rolling Star☆彡"
+        ]
       ],
-      "川田まみ": [
-        "Wind and Wander",
-        "Blaze a trail",
-        "birthday eve"
+      [
+        "川田まみ",
+        [
+          "Wind and Wander",
+          "Blaze a trail",
+          "birthday eve"
+        ]
       ],
-      "C.G mix": [
-        "under the darkness",
-        "Welcome to HEAVEN!"
+      [
+        "C.G mix",
+        [
+          "under the darkness",
+          "Welcome to HEAVEN!"
+        ]
       ],
-      "KOTOKO": [
-        "Abyss",
-        "Time heals all sorrows",
-        "Close to me...",
-        "bumpy-Jumpy!"
+      [
+        "KOTOKO",
+        [
+          "Abyss",
+          "Time heals all sorrows",
+          "Close to me...",
+          "bumpy-Jumpy!"
+        ]
       ],
-      "Outer": [
-        "FUCK ME",
-        "Leave me hell alone",
-        "Princess Brave!"
+      [
+        "Outer",
+        [
+          "FUCK ME",
+          "Leave me hell alone",
+          "Princess Brave!"
+        ]
       ],
-      "I've": [
-        "Fair Heaven"
+      [
+        "I've",
+        [
+          "Fair Heaven"
+        ]
       ],
-      "多田葵": [
-        "Harvest"
+      [
+        "多田葵",
+        [
+          "Harvest"
+        ]
       ],
-      "Girls Dead Monster": [
-        "Crow Song"
+      [
+        "Girls Dead Monster",
+        [
+          "Crow Song"
+        ]
       ],
-      "marina": [
-        "Alchemy"
+      [
+        "marina",
+        [
+          "Alchemy"
+        ]
       ],
-      "LiSA": [
-        "Thousand Enemies",
-        "Day Game"
+      [
+        "LiSA",
+        [
+          "Thousand Enemies",
+          "Day Game"
+        ]
       ],
-      "karuta": [
-        "一番の宝物 (Original Version)"
+      [
+        "karuta",
+        [
+          "一番の宝物 (Original Version)"
+        ]
       ],
-      "多田葵": [
-        "Brave Song",
-        "CANOE"
+      [
+        "多田葵",
+        [
+          "Brave Song",
+          "CANOE"
+        ]
       ],
-      "NanosizeMir": [
-        "闇の彼方へ",
-        "ささやかなはじまり"
+      [
+        "NanosizeMir",
+        [
+          "闇の彼方へ",
+          "ささやかなはじまり"
+        ]
       ],
-      "NanosizeMir feat. 折戸伸治・樋上いたる": [
-        "Philosophyz"
+      [
+        "NanosizeMir feat. 折戸伸治・樋上いたる",
+        [
+          "Philosophyz"
+        ]
       ],
-      "北沢綾香": [
-        "サンブライド"
+      [
+        "北沢綾香",
+        [
+          "サンブライド"
+        ]
       ],
-      "鈴田美夜子": [
-        "one's future"
+      [
+        "鈴田美夜子",
+        [
+          "one's future"
+        ]
       ],
-      "Rita": [
-        "Alicemagic",
-        "Little Busters! -Little Jumper Ver.-"
+      [
+        "Rita",
+        [
+          "Alicemagic",
+          "Little Busters! -Little Jumper Ver.-"
+        ]
       ],
-      "eufonius": [
-        "メグメル"
+      [
+        "eufonius",
+        [
+          "メグメル"
+        ]
       ],
-      "茶太": [
-        "だんご大家族"
+      [
+        "茶太",
+        [
+          "だんご大家族"
+        ]
       ],
-      "Lia": [
-        "鳥の詩",
-        "Liaメドレー (青空、nostalgia、Life is like a Melody、夏影)",
-        "My Soul,Your Beats!"
+      [
+        "Lia",
+        [
+          "鳥の詩",
+          "Liaメドレー (青空、nostalgia、Life is like a Melody、夏影)",
+          "My Soul,Your Beats!"
+        ]
       ],
-      "I've × Key Sounds Label": [
-        "Last regrets (Liaを除く)",
-        "Orpheus 〜君と奏でる明日へのうた〜"
+      [
+        "I've × Key Sounds Label",
+        [
+          "Last regrets (Liaを除く)",
+          "Orpheus 〜君と奏でる明日へのうた〜"
+        ]
       ]
-    },
-    "encore": {
-      "Kalafina": [
-        "song"
-      ]
-    }
+    ]
   }
 }

@@ -4,15 +4,18 @@
   "prefecture": "東京",
   "venues": "池袋サンシャインシティ噴水広場",
   "setlist": {
-    "main": {
-      "LiSA": [
-        "oath sign",
-        "WiLD CANDY",
-        "crossing field",
-        "KiSS me PARADOX",
-        "ジェットロケット",
-        "いつかの手紙"
+    "main": [
+      [
+        "LiSA",
+        [
+          "oath sign",
+          "WiLD CANDY",
+          "crossing field",
+          "KiSS me PARADOX",
+          "ジェットロケット",
+          "いつかの手紙"
+        ]
       ]
-    }
+    ]
   }
 }

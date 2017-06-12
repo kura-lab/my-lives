@@ -4,35 +4,41 @@
   "prefecture": "東京",
   "venues": "NHKホール",
   "setlist": {
-    "main": {
-      "Kalafina": [
-        "満天",
-        "Magia",
-        "夏の林檎",
-        "Serenato",
-        "Lirica",
-        "闇の唄",
-        "屋根の向こうに",
-        "Eden",
-        "storia",
-        "intermezzo",
-        "Lacrimosa",
-        "magnolia",
-        "胸の行方",
-        "in your eyes",
-        "destination unknown",
-        "Kyrie",
-        "nowhere",
-        "音楽",
-        "to the beginning"
+    "main": [
+      [
+        "Kalafina",
+        [
+          "満天",
+          "Magia",
+          "夏の林檎",
+          "Serenato",
+          "Lirica",
+          "闇の唄",
+          "屋根の向こうに",
+          "Eden",
+          "storia",
+          "intermezzo",
+          "Lacrimosa",
+          "magnolia",
+          "胸の行方",
+          "in your eyes",
+          "destination unknown",
+          "Kyrie",
+          "nowhere",
+          "音楽",
+          "to the beginning"
+        ]
       ]
-    },
-    "encore": {
-      "Kalafina": [
-        "adore",
-        "moonfesta～ムーンフェスタ～",
-        "symphonia"
+    ],
+    "encore": [
+      [
+        "Kalafina",
+        [
+          "adore",
+          "moonfesta～ムーンフェスタ～",
+          "symphonia"
+        ]
       ]
-    }
+    ]
   }
 }
