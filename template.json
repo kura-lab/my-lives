@@ -4,15 +4,23 @@
   "prefecture": "東京",
   "venues": "<venues>",
   "setlist": {
-    "main": {
-      "<artist>": [
-        "<song>"
+    "main": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
       ]
-    },
-    "encore": {
-      "<artist>": [
-        "<song>"
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
       ]
-    }
+    ]
   }
 }
