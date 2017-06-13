@@ -9,10 +9,11 @@ use kuralab\jsonviewer\JsonViewer;
 
 $dir = './events';
 $list = scandir($dir);
+$filename = 'list.json';
 
 $files = [];
 foreach ($list as $file) {
-  if (preg_match('/.*\.json\z/', $file)) {
+  if (preg_match('/.*\.json\z/', $file) && $file !== $filename) {
     $files[] = $file;
   }
 }
@@ -25,8 +26,6 @@ $indent = 2;
 $viewer = new JsonViewer($rowJson, $delimiter, $indent);
 $visualized = $viewer->visualize();
 echo $visualized;
-
-$filename = 'list.json';
 
 file_put_contents($dir . '/' . $filename, $visualized);
 
