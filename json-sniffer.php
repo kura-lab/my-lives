@@ -11,10 +11,10 @@ foreach ($list as $file) {
     $row = file_get_contents($dir . '/' . $file);
     $json = json_decode($row);
     if (!$json) {
-      echo "\n$file is invalid json format.\n";
+      echo "\n[[error]] $file is invalid json format.\n";
       exit;
     }
     echo '  ' . $file . "\n";
   }
 }
-echo "\nall files are valid json format.\n";
+echo "\n[[success]] all files are valid json format.\n";
