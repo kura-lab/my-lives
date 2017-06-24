@@ -1,0 +1,34 @@
+{
+  "event": "リスアニ!CIRCUIT Vol.3",
+  "date": "2013-03-22",
+  "prefecture": "東京",
+  "venues": "SHIBUYA O-EAST",
+  "setlist": {
+    "main": [
+      [
+        "ALTIMA",
+        [
+          "I'll believe",
+          "-Indefinitely-",
+          "ONE",
+          "WISH i WISH",
+          "CYBER CYBER",
+          "Gamble Rumble",
+          "Burst The Gravity"
+        ]
+      ],
+      [
+        "fripSide",
+        [
+          "LEVEL5-judgelight-",
+          "future gazer",
+          "endless memory ～refrain as Da Capo～",
+          "Heaven is a Place on Earth",
+          "sister’s noise",
+          "fortissimo -the ultimate crisis-",
+          "only my railgun"
+        ]
+      ]
+    ]
+  }
+}
