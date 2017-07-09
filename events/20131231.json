@@ -1,0 +1,62 @@
+{
+  "event": "fripSide COUNT DOWN LIVE 2013→2014",
+  "date": "2013-12-31",
+  "prefecture": "埼玉",
+  "venues": "大宮ソニックシティ",
+  "setlist": {
+    "main": [
+      [
+        "fripSide",
+        [
+          "fortissimo -from insanity affection-",
+          "crossing over",
+          "future gazer",
+          "pico scope -SACLA-",
+          "late in autumn",
+          "a silent voice",
+          "everlasting"
+        ]
+      ],
+      [
+        "S×A×T",
+        [
+          "Shining Star-☆-LOVE Letter"
+        ]
+      ],
+      [
+        "fripSide",
+        [
+          "before dawn daybreak",
+          "Alice in Rosso",
+          "waiting for the moment",
+          "come to mind (version3)",
+          "Heaven is a Place on Earth",
+          "endless memory ～refrain as Da Capo～",
+          "Hesitation Snow",
+          "way to answer",
+          "sister's noise",
+          "only my railgun",
+          "trusty snow",
+          "LEVEL5-judgelight-"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "fripSide",
+        [
+          "Hesitation Snow",
+          "sister's noise"
+        ]
+      ]
+    ],
+    "encore2": [
+      [
+        "fripSide",
+        [
+          "eternal reality"
+        ]
+      ]
+    ]
+  }
+}
