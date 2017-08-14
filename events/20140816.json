@@ -1,0 +1,67 @@
+{
+  "event": "SUMMER SONIC 2014",
+  "date": "2014-08-14",
+  "prefecture": "千葉",
+  "venues": "幕張メッセ",
+  "setlist": {
+    "main": [
+      [
+        "TOKIO",
+        [
+          "宙船",
+          "AMBITIOUS JAPAN!",
+          "WATER LIGHT",
+          "リリック",
+          "LOVE, HOLIDAY.",
+          "Future",
+          "Sunset,Sunrise",
+          "LOVE YOU ONLY"
+        ]
+      ],
+      [
+        "スキマスイッチ",
+        [
+          "奏",
+          "ユリーカ",
+          "夏のコスモナウト",
+          "SL9",
+          "Ah Yeah!!",
+          "ガラナ",
+          "全力少年"
+        ]
+      ],
+      [
+        "Arctic Monkeys",
+        [
+          "Do I Wanna Know?",
+          "Snap Out Of It",
+          "Arabella",
+          "Brianstorm",
+          "Don't Sit Down 'Cause I've Moved Your Chair",
+          "Dancing Shoes",
+          "Crying Lightning",
+          "Knee Socks",
+          "My Propeller",
+          "I Bet You Look Good On The Dancefloor",
+          "Library Pictures",
+          "Old Yellow Bricks",
+          "Fireside",
+          "No.1 Party Anthem",
+          "Why'd You Only Call Me When You're High?",
+          "Fluorescent Adolescent",
+          "505"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "Arctic Monkeys",
+        [
+          "One For The Road",
+          "I Wanna Be Yours",
+          "R U Mine?"
+        ]
+      ]
+    ]
+  }
+}
