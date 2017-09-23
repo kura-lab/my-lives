@@ -50,11 +50,13 @@ file_put_contents($dir . '/' . $filename, $visualized);
 
 echo "\n\nwrote event list to $dir/$filename\n\n";
 
+$countEvents = count($files);
 $countArtists = count($artists);
 $countSongs = count($songs);
 sort($artists);
 sort($songs);
 $uniqueArtists = count(array_unique($artists));
 $uniqueSongs = count(array_unique($songs));
+echo "events:  $countEvents\n";
 echo "artists: $countArtists (unique $uniqueArtists)\n";
 echo "songs:   $countSongs (unique $uniqueSongs)\n";
