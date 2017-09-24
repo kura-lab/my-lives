@@ -23,7 +23,7 @@ foreach ($list as $file) {
       foreach ($json['setlist'] as $sets) {
         foreach ($sets as $set) {
           if (!empty($set[0])) {
-            $splited = explode(',', $set[0]);
+            $splited = explode('/', $set[0]);
             foreach ($splited as $artist) {
               $artists[] = trim($artist);
             }
