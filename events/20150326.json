@@ -1,0 +1,42 @@
+{
+  "event": "名古屋市公会堂桜開花! \"ちゃんLiSA春祭り\"supported by ZIP-FM ～LiSA 3rd フルアルバム「Launcher」リリース記念スペシャルイベント～",
+  "date": "2015-03-26",
+  "prefecture": "愛知",
+  "venues": "名古屋市公会堂",
+  "setlist": {
+    "main": [
+      [
+        "LiSA",
+        [
+          "Mr.Launcher",
+          "Rising Hope",
+          "アコガレ望遠鏡",
+          "蜜",
+          "L.Miranic",
+          "シルシ",
+          "rapid life シンドローム",
+          "ROCK-mode",
+          "crossing field",
+          "エレクトリリカル",
+          "No More Time Machine"
+        ]
+      ]
+    ],
+    "encore1": [
+      [
+        "LiSA",
+        [
+          "Rally Go Round"
+        ]
+      ]
+    ],
+    "encore2": [
+      [
+        "LiSA",
+        [
+          "best day, best way"
+        ]
+      ]
+    ]
+  }
+}
