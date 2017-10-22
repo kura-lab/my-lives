@@ -1,0 +1,45 @@
+{
+  "event": "～Kalafina LIVE THE BEST 2015 \"Red day\"～",
+  "date": "2015-02-28",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "Kalafina",
+        [
+          "prelude",
+          "misterioso",
+          "テトテトメトメ",
+          "fantasia",
+          "Lacrimosa",
+          "輝く空の静寂には",
+          "ARIA",
+          "believe",
+          "moonfesta～ムーンフェスタ～",
+          "neverending",
+          "ひかりふる",
+          "光の旋律",
+          "Fairytale",
+          "oblivious",
+          "Kyrie",
+          "consolation",
+          "音楽",
+          "夢の大地"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "Kalafina",
+        [
+          "Overture",
+          "Eden",
+          "胸の行方",
+          "ring your bell",
+          "アレルヤ"
+        ]
+      ]
+    ]
+  }
+}
