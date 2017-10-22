@@ -1,0 +1,86 @@
+{
+  "event": "リスアニ!LIVE-5",
+  "date": "2015-01-25",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "LiSA",
+        [
+          "Rising Hope",
+          "crossing field",
+          "L.Miranic",
+          "アシアトコンパス",
+          "シルシ",
+          "No More Time Machine"
+        ]
+      ],
+      [
+        "KOTOKO",
+        [
+          "TOUGH INTENTION",
+          "ハヤテのごとく!",
+          "覚えてていいよ",
+          "Re-sublimity",
+          "→unfinished→",
+          "ZoNE-iT",
+          "Light My Fire"
+        ]
+      ],
+      [
+        "ZAQ",
+        [
+          "Seven Doors",
+          "Alteration",
+          "Philosophy of Dear World",
+          "ONE WAY ROAD!!",
+          "Sparkling Daydream"
+        ]
+      ],
+      [
+        "ClariS",
+        [
+          "コネクト",
+          "border"
+        ]
+      ],
+      [
+        "三森すずこ",
+        [
+          "せいいっぱい、つたえたい!",
+          "サンシャインハーモニー",
+          "ユニバーページ",
+          "ROLLER COASTER♡",
+          "High And Loud"
+        ]
+      ],
+      [
+        "Kalafina",
+        [
+          "believe",
+          "snow falling",
+          "oblivious",
+          "音楽",
+          "heavenly blue",
+          "未来"
+        ]
+      ],
+      [
+        "fripSide",
+        [
+          "black bullet",
+          "Heaven is a Place on Earth",
+          "everlasting",
+          "Rising Hope",
+          "それは僕たちの奇跡",
+          "LEVEL5-judgelight-",
+          "future gazer",
+          "eternal reality",
+          "only my railgun",
+          "sister's noise"
+        ]
+      ]
+    ]
+  }
+}
