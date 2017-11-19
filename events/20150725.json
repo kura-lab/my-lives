@@ -1,0 +1,44 @@
+{
+  "event": "LiVE is Smile Always～Launcher～",
+  "date": "2015-07-25",
+  "prefecture": "東京",
+  "venues": "豊洲PIT",
+  "setlist": {
+    "main": [
+      [
+        "LiSA",
+        [
+          "rapid life シンドローム",
+          "crossing field",
+          "エスケープゲーム",
+          "蜜",
+          "L.Miranic",
+          "アコガレ望遠鏡",
+          "シルシ",
+          "オレンジサイダー",
+          "君にピエロ",
+          "No More Time Machine",
+          "Wake up! Sloth",
+          "ANTIHERO",
+          "Rally Go Round",
+          "コズミックジェットコースター",
+          "Bad Sweet Trap",
+          "Rising Hope",
+          "ROCK-mode",
+          "エレクトリリカル",
+          "Mr.Launcher"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "LiSA",
+        [
+          "BRiGHT FLiGHT",
+          "Empty MERMAiD",
+          "best day, best way"
+        ]
+      ]
+    ]
+  }
+}
