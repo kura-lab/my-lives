@@ -1,0 +1,106 @@
+{
+  "event": "ROCK IN JAPAN FESTIVAL 2015",
+  "date": "2015-08-08",
+  "prefecture": "茨城",
+  "venues": "国営ひたち海浜公園",
+  "setlist": {
+    "main": [
+      [
+        "KREVA",
+        [
+          "イッサイガッサイ",
+          "OH YEAH",
+          "基準",
+          "挑め",
+          "ストロングスタイル",
+          "アグレッシ部",
+          "トランキライザー",
+          "C'mon, Let's go",
+          "Have a nice day!",
+          "Na Na Na",
+          "音色"
+        ]
+      ],
+      [
+        "NICO Touches the Walls",
+        [
+          "まっすぐなうた",
+          "手をたたけ",
+          "THE BUNGY",
+          "夏の大三角形",
+          "ホログラム",
+          "ニワカ雨ニモ負ケズ",
+          "渦と渦",
+          "天地ガエシ"
+        ]
+      ],
+      [
+        "家入レオ",
+        [
+          "勇気のしるし",
+          "Shine",
+          "Shooter",
+          "君がくれた夏",
+          "Silly",
+          "Who's that",
+          "純情",
+          "サブリナ",
+          "TWO HEARTS"
+        ]
+      ],
+      [
+        "KANA-BOON",
+        [
+          "タイムアウト",
+          "LOL",
+          "ウォーリーヒーロー",
+          "ないものねだり",
+          "なんでもねだり",
+          "クラクション",
+          "盛者必衰の理、お断り",
+          "フルドライブ",
+          "ダイバー",
+          "スパイラル",
+          "シルエット"
+        ]
+      ],
+      [
+        "MAN WITH A MISSION",
+        [
+          "Emotions",
+          "database",
+          "Get Off of My Way",
+          "Dive",
+          "Out of Control",
+          "Seven Deadly Sins",
+          "distance",
+          "evils fall",
+          "DANCE EVERYBODY",
+          "Smells Like Teen Spirit",
+          "FLY AGAIN"
+        ]
+      ],
+      [
+        "BUMP OF CHICKEN",
+        [
+          "天体観測",
+          "パレード",
+          "Hello,world!",
+          "メーデー",
+          "ファイター",
+          "コロニー",
+          "カルマ",
+          "虹を待つ人"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "BUMP OF CHICKEN",
+        [
+          "ray"
+        ]
+      ]
+    ]
+  }
+}
