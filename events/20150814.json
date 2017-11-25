@@ -1,0 +1,39 @@
+{
+  "event": "SONICMANIA 2015",
+  "date": "2015-08-14",
+  "prefecture": "千葉",
+  "venues": "幕張メッセ",
+  "setlist": {
+    "main": [
+      [
+        "Perfume",
+        [
+          "Pick Me Up",
+          "レーザービーム",
+          "GLITTER",
+          "Spring of Life",
+          "NIGHT FLIGHT",
+          "Party Maker",
+          "だいじょばない",
+          "チョコレイト・ディスコ"
+        ]
+      ],
+      [
+        "Marilyn Manson",
+        [
+          "Deep Six",
+          "Disposable Teens",
+          "mOBSCENE",
+          "No Reflection",
+          "Third Day Of A Seven Day Binge",
+          "Sweet Dreams (Are Made of This) [Eurythmics]",
+          "Angel With the Scabbed Wings",
+          "Rock Is Dead",
+          "Personal Jesus",
+          "Antichrist Superstar",
+          "The Beautiful People"
+        ]
+      ]
+    ]
+  }
+}
