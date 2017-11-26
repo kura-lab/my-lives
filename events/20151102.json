@@ -1,0 +1,45 @@
+{
+  "event": "Eir Aoi Special Live 2015 WORLD OF BLUE at 日本武道館",
+  "date": "2015-11-02",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "藍井エイル",
+        [
+          "アヴァロン・ブルー",
+          "シンシアの光",
+          "AURORA",
+          "GENESIS",
+          "KASUMI",
+          "Back To Zero",
+          "クロイウタ",
+          "A New Day",
+          "Roses",
+          "虹の音",
+          "コバルト・スカイ",
+          "サンビカ",
+          "ゆらり",
+          "青の世界",
+          "シューゲイザー",
+          "INNOCENCE",
+          "Bright Future",
+          "シリウス",
+          "IGNITE",
+          "ラピスラズリ"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "藍井エイル",
+        [
+          "MEMORIA orchestra ver.",
+          "HaNaZaKaRi",
+          "ツナガルオモイ"
+        ]
+      ]
+    ]
+  }
+}
