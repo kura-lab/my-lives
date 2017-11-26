@@ -1,0 +1,78 @@
+{
+  "event": "SUMMER SONIC 2015",
+  "date": "2015-08-16",
+  "prefecture": "千葉",
+  "venues": "幕張メッセ",
+  "setlist": {
+    "main": [
+      [
+        "KANA-BOON",
+        [
+          "タイムアウト",
+          "ウォーリーヒーロー",
+          "なんでもねだり",
+          "クラクション",
+          "盛者必衰の理、お断り",
+          "フルドライブ",
+          "ダイバー",
+          "シルエット"
+        ]
+      ],
+      [
+        "MAN WITH A MISSION",
+        [
+          "Emotions",
+          "Take What U Want",
+          "Dive",
+          "Get Off of My Way",
+          "Out of Control",
+          "Seven Deadly Sins",
+          "FLY AGAIN"
+        ]
+      ],
+      [
+        "MONKEY MAJIK",
+        [
+          ""
+        ]
+      ],
+      [
+        "Imagine Dragons",
+        [
+          ""
+        ]
+      ],
+      [
+        "Pharrell Williams",
+        [
+          "Freedom",
+          "Come Get It Bae",
+          "Frontin'",
+          "Hunter",
+          "Marilyn Monroe",
+          "Brand New",
+          "Nothing",
+          "Move That Dope",
+          "Alright",
+          "Hot In Herre",
+          "Just Wanna Love U",
+          "Pass The Courvoisier, PartII",
+          "Spaz",
+          "Rockstar",
+          "Lapdance",
+          "She Wants To Move",
+          "It Girl",
+          "Lose Yourself To Dance",
+          "Gust Of Wind",
+          "Hollaback Girl",
+          "Beautiful",
+          "Drop It Like It's Hot",
+          "Blurred Lines",
+          "Get Lucky",
+          "Happy",
+          "Freedom"
+        ]
+      ]
+    ]
+  }
+}
