@@ -1,0 +1,92 @@
+{
+  "event": "リスアニ!LIVE 2016",
+  "date": "2016-01-24",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "綾野ましろ",
+        [
+          "infinity beyond",
+          "vanilla sky",
+          "ideal white"
+        ]
+      ],
+      [
+        "内田真礼",
+        [
+          "からっぽカプセル",
+          "世界が形失くしても",
+          "Hello, 1st contact!",
+          "ギミー!レボリューション",
+          "創傷イノセンス",
+          "Hello, future contact!"
+        ]
+      ],
+      [
+        "Aimer",
+        [
+          "StarRingChild",
+          "RE: I AM",
+          "あなたに出会わなければ ～夏雪冬花～",
+          "LAST STARDUST",
+          "Brave Shine",
+          "六等星の夜"
+        ]
+      ],
+      [
+        "川田まみ",
+        [
+          "緋色の空",
+          "Borderland",
+          "masterpiece",
+          "Contrail～軌跡～",
+          "radiance",
+          "No buts!",
+          "JOINT"
+        ]
+      ],
+      [
+        "TrySail",
+        [
+          "whiz",
+          "Baby My Step",
+          "コバルト",
+          "Youthful Dreamer"
+        ]
+      ],
+      [
+        "fripSide",
+        [
+          "Luminize",
+          "Heaven is a Place on Earth",
+          "white forces",
+          "1983-schwarzesmarken-",
+          "black bullet",
+          "Two souls –toward the truth-"
+        ]
+      ],
+      [
+        "LiSA",
+        [
+          "ID",
+          "Rally Go Round",
+          "Empty MERMAiD",
+          "エレクトリリカル",
+          "oath sign",
+          "シルシ",
+          "Rising Hope"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "fripSide",
+        [
+          "only my railgun"
+        ]
+      ]
+    ]
+  }
+}
