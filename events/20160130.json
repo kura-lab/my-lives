@@ -1,0 +1,30 @@
+{
+  "event": "LoveLive!μ's Fan Meeting in 上海 〜Talk&Live〜",
+  "date": "2016-01-30",
+  "prefecture": "東京",
+  "venues": "新宿ピカデリー",
+  "setlist": {
+    "main": [
+      [
+        "μ's",
+        [
+          "それは僕たちの奇跡",
+          "僕らは今のなかで",
+          "僕らのLIVE 君とのLIFE",
+          "タカラモノズ",
+          "No brand girls",
+          "Snow halation"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "µ's",
+        [
+          "ミはμ’sicのミ",
+          "どんなときもずっと"
+        ]
+      ]
+    ]
+  }
+}
