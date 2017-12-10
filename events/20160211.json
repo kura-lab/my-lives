@@ -1,0 +1,44 @@
+{
+  "event": "FC「リサラボっ。」Presents 「リアルLiSAッ子祭～ちょこ×6っ～」",
+  "date": "2016-02-11",
+  "prefecture": "東京",
+  "venues": "恵比寿LIQUIDROOM",
+  "setlist": {
+    "main": [
+      [
+        "LiSA",
+        [
+          "only My railgun",
+          "oath sign",
+          "オレンジサイダー",
+          "一番の宝物"
+        ]
+      ],
+      [
+        "LiSA/marina",
+        [
+          "Crow Song",
+          "恋するフォーチュンクッキー"
+        ]
+      ],
+      [
+        "LiSA",
+        [
+          "はなまるぴっぴはよいこだけ",
+          "Hi FiVE!",
+          "Wake up! Sloth",
+          "ポーカーフェイス",
+          "L.Miranic"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "LiSA",
+        [
+          "Rising Hope"
+        ]
+      ]
+    ]
+  }
+}
