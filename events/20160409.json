@@ -1,0 +1,43 @@
+{
+  "event": "綾野ましろ One man Live 2016 ～growing wing～",
+  "date": "2016-04-09",
+  "prefecture": "東京",
+  "venues": "日本橋三井ホール",
+  "setlist": {
+    "main": [
+      [
+        "綾野ましろ",
+        [
+          "white feel ～overture～",
+          "Wingless Diver",
+          "focus light",
+          "vanilla sky",
+          "TURN TO YOU",
+          "刹那クロニクル",
+          "燐光",
+          "re:rain",
+          "RAY OF LIGHT",
+          "春想の街",
+          "Believe",
+          "infinity beyond",
+          "ideal white"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "綾野ましろ/玉置成実",
+        [
+          "Reason",
+          "ハーフムーンフラワー"
+        ]
+      ],
+      [
+        "綾野ましろ",
+        [
+          "pledge of stars"
+        ]
+      ]
+    ]
+  }
+}
