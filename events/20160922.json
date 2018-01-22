@@ -1,0 +1,57 @@
+{
+  "event": "NANA MIZUKI LIVE PARK 2016",
+  "date": "2016-09-22",
+  "prefecture": "兵庫",
+  "venues": "阪神甲子園球場",
+  "setlist": {
+    "main": [
+      [
+        "水樹奈々",
+        [
+          "アオイイロ",
+          "POWER GATE",
+          "It's Only Brave",
+          "Naked Soldier",
+          "SCARLET KNIGHT",
+          "アンティフォーナ",
+          "POP MASTER",
+          "76th Star",
+          "summer sweet",
+          "コイウタ。",
+          "The NEW STAR",
+          "Faith",
+          "TRANSMIGRATION",
+          "熱情のマリア",
+          "STARTING NOW!",
+          "レイジーシンドローム",
+          "7COLORS",
+          "STAND UP!",
+          "MASSIVE WONDERS",
+          "ETERNAL BLAZE",
+          "アパッショナート",
+          "BRAVE PHOENIX"
+        ]
+      ]
+    ],
+    "encore1": [
+      [
+        "水樹奈々",
+        [
+          "Fun Fun★People",
+          "六甲おろし",
+          "You have a dream",
+          "ミラクル☆フライト",
+          "恋想花火"
+        ]
+      ]
+    ],
+    "encore2": [
+      [
+        "水樹奈々",
+        [
+          "JET PARK"
+        ]
+      ]
+    ]
+  }
+}
