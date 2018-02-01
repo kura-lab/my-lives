@@ -1,0 +1,40 @@
+{
+  "event": "One-man Live 2016「WHITE PLACE」",
+  "date": "2016-11-03",
+  "prefecture": "東京",
+  "venues": "恵比寿LIQUIDROOM",
+  "setlist": {
+    "main": [
+      [
+        "綾野ましろ",
+        [
+          "shinkiro",
+          "focus light",
+          "tiny wings",
+          "刹那クロニクル",
+          "misty way",
+          "re:rain",
+          "labradorite",
+          "vanilla sky",
+          "Delusion",
+          "Lotus Pain",
+          "憧憬",
+          "RAY OF LIGHT",
+          "スパイラルガーデン",
+          "infinity beyond",
+          "ideal white"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "綾野ましろ",
+        [
+          "believe",
+          "marionnette",
+          "春想の街"
+        ]
+      ]
+    ]
+  }
+}
