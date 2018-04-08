@@ -1,0 +1,73 @@
+{
+  "event": "リスアニ!LIVE 2017",
+  "date": "2017-01-27",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "Kalafina",
+        [
+          "Overture",
+          "Magia",
+          "blaze",
+          "メルヒェン",
+          "満天",
+          "to the beginning"
+        ]
+      ],
+      [
+        "Kalafina/LiSA",
+        [
+          "輝く空の静寂には"
+        ]
+      ],
+      [
+        "Kalafina",
+        [
+          "believe",
+          "identify",
+          "音楽",
+          "ring your bell"
+        ]
+      ],
+      [
+        "Kalafina/LiSA",
+        [
+          "One Light",
+          "oath sign"
+        ]
+      ],
+      [
+        "LiSA",
+        [
+          "crossing field",
+          "エレクトリリカル",
+          "⼀番の宝物"
+        ]
+      ],
+      [
+        "LiSA/Wakana",
+        [
+          "THIS ILLUTION"
+        ]
+      ],
+      [
+        "LiSA/Hikaru",
+        [
+          "traumerei"
+        ]
+      ],
+      [
+        "LiSA",
+        [
+          "Catch the Moment",
+          "ANTIHERO",
+          "Psychedelic Drive",
+          "Rally Go Round",
+          "Rising Hope"
+        ]
+      ]
+    ]
+  }
+}
