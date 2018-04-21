@@ -1,0 +1,47 @@
+{
+  "event": "BanG Dream! 3rd☆LIVE Sparklin’ PARTY 2017!",
+  "date": "2017-02-05",
+  "prefecture": "東京",
+  "venues": "池袋ＨＵＭＡＸシネマズ",
+  "setlist": {
+    "main": [
+      [
+        "Poppin'Party",
+        [
+          "Yes! BanG_Dream!",
+          "走り始めたばかりのキミに",
+          "Little Busters!",
+          "Alchemy",
+          "DISCOTHEQUE",
+          "STAR BEAT!～ホシノコドウ～",
+          "ぽっぴん'しゃっふる"
+        ]
+      ],
+      [
+        "Roselia",
+        [
+          "魂のルフラン",
+          "Hacking to the Gate",
+          "BLACK SHOUT"
+        ]
+      ],
+      [
+        "Poppin'Party",
+        [
+          "ときめきエクスペリエンス!",
+          "ティアドロップス",
+          "キラキラだとか夢だとか～Sing Girls～"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "Poppin'Party",
+        [
+          "1000回潤んだ空",
+          "STARBEAT!～ホシノコドウ～"
+        ]
+      ]
+    ]
+  }
+}
