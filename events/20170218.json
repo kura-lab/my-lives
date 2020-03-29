@@ -1,0 +1,26 @@
+{
+  "event": "billboard classics festival 2017 in TOKYO -Bright Lights, Spring-",
+  "date": "2017-02-18",
+  "prefecture": "東京",
+  "venues": "東京国際フォーラム",
+  "setlist": {
+    "main": [
+      [
+        "Aimer",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ]
+  }
+}
