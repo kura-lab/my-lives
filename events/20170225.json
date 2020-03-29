@@ -1,0 +1,26 @@
+{
+  "event": "Aqours FirstLoveLive!～Step! ZERO to ONE～",
+  "date": "2017-02-25",
+  "prefecture": "東京",
+  "venues": "TOHOシネマズ 六本木ヒルズ",
+  "setlist": {
+    "main": [
+      [
+        "Aqours",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ]
+  }
+}
