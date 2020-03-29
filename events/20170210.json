@@ -1,0 +1,26 @@
+{
+  "event": "ClariS 1st 武道館コンサート ～2つの仮面と失われた太陽～",
+  "date": "2017-02-10",
+  "prefecture": "東京",
+  "venues": "日本武道館",
+  "setlist": {
+    "main": [
+      [
+        "ClariS",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ]
+  }
+}
