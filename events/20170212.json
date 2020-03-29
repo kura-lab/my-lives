@@ -1,0 +1,26 @@
+{
+  "event": "FC「リサラボっ。」Presents 「リアルLiSAッ子祭～ちょこ×7っ～」",
+  "date": "2017-02-12",
+  "prefecture": "東京",
+  "venues": "恵比寿LIQUIDROOM",
+  "setlist": {
+    "main": [
+      [
+        "LiSA",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ]
+  }
+}
