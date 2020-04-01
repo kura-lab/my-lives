@@ -1,0 +1,26 @@
+{
+  "event": "THE IDOLM@STER MILLION LIVE! 4thLIVE TH@NK YOU for SMILE!!",
+  "date": "2017-03-11",
+  "prefecture": "東京",
+  "venues": "T・ジョイSEIBU大泉",
+  "setlist": {
+    "main": [
+      [
+        "アイドルマスターミリオンライブ！ミリオンスターズ",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ],
+    "encore": [
+      [
+        "<artist>",
+        [
+          "<song>",
+          "<song>"
+        ]
+      ]
+    ]
+  }
+}
